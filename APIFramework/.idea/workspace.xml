@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15f33c19-ac86-4cb8-80d0-1b9077af6bc8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="15f33c19-ac86-4cb8-80d0-1b9077af6bc8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +155,19 @@
       <option name="presentableId" value="Default" />
       <updated>1640999424441</updated>
     </task>
+    <task id="LOCAL-00001" summary="new project created">
+      <created>1643425043004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643425043005</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new project created" />
+    <option name="LAST_COMMIT_MESSAGE" value="new project created" />
   </component>
   <component name="WindowStateProjectService">
     <state x="627" y="221" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1641009390163">
@@ -180,6 +190,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="387" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1641001029244" />
+    <state x="526" y="47" key="CommitChangelistDialog2" timestamp="1643425040891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="526" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643425040891" />
     <state x="690" y="221" key="FileChooserDialogImpl" timestamp="1641000331148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
