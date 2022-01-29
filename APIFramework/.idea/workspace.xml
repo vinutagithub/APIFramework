@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15f33c19-ac86-4cb8-80d0-1b9077af6bc8" name="Default Changelist" comment="" />
+    <list default="true" id="15f33c19-ac86-4cb8-80d0-1b9077af6bc8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643425043005</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new project created">
+      <created>1643425071324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643425071324</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,10 +199,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="387" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1641001029244" />
-    <state x="526" y="47" key="CommitChangelistDialog2" timestamp="1643425040891">
+    <state x="526" y="47" key="CommitChangelistDialog2" timestamp="1643425070139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="526" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643425040891" />
+    <state x="526" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643425070139" />
     <state x="690" y="221" key="FileChooserDialogImpl" timestamp="1641000331148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -222,10 +231,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="340" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1642487088016" />
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1643424972947">
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1643425232118">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643424972947" />
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643425232118" />
     <state x="716" y="287" key="chooseDestDirectoryDialog" timestamp="1641000970038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -234,6 +243,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1643424879409" />
+    <state x="718" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643425206950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643425206950" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1641111407002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
