@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15f33c19-ac86-4cb8-80d0-1b9077af6bc8" name="Default Changelist" comment="">
+    <list default="true" id="15f33c19-ac86-4cb8-80d0-1b9077af6bc8" name="Default Changelist" comment="new class added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/.." value="master" />
+        <entry key="$PROJECT_DIR$/.." value="feature/testbranch1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -68,7 +68,7 @@
       <module name="APIFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PositiveTestCase.*" />
+          <option name="PATTERN" value="NegativeValidTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,7 +86,7 @@
       <module name="APIFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PositiveTestCase.*" />
+          <option name="PATTERN" value="NegativeValidTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,7 +104,7 @@
       <module name="APIFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PositiveTestCase.*" />
+          <option name="PATTERN" value="NegativeValidTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,7 +122,7 @@
       <module name="APIFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PositiveTestCase.*" />
+          <option name="PATTERN" value="NegativeValidTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643425071324</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new project created">
+      <created>1643470745841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643470745841</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,10 +206,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="387" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1641001029244" />
-    <state x="526" y="47" key="CommitChangelistDialog2" timestamp="1643425070139">
+    <state x="0" y="47" width="1920" height="945" key="CommitChangelistDialog2" timestamp="1643471453363">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="526" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643425070139" />
+    <state x="0" y="47" width="1920" height="945" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643471453363" />
     <state x="690" y="221" key="FileChooserDialogImpl" timestamp="1641000331148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -231,10 +238,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="340" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1642487088016" />
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1643425232118">
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1643471503955">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643425232118" />
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643471503955" />
     <state x="716" y="287" key="chooseDestDirectoryDialog" timestamp="1641000970038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,6 +250,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1643424879409" />
+    <state x="683" y="195" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1643471281415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="195" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1643471281415" />
     <state x="718" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643425206950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
