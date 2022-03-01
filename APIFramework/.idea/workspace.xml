@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15f33c19-ac86-4cb8-80d0-1b9077af6bc8" name="Default Changelist" comment="" />
+    <list default="true" id="15f33c19-ac86-4cb8-80d0-1b9077af6bc8" name="Default Changelist" comment="new class added">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationframework_Test1/Automationframework_Test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationframework_Test1/Automationframework_Test1/Automationframework_Test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationframework_Test1/ExpediaBooking/.idea/ExpediaBooking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Automationframework_Test1/ExpediaBooking/ExpediaBooking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculation_git/Calculation_git.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberFrameWork (2)/.idea/CucumberFrameWork (2).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberFrameWork (2)/CucumberFrameWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CucumberProject/CucumberProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumberprj/Cucumberprj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DefensiveCodingInJava-master/.idea/DefensiveCodingInJava-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DefensiveCodingInJava-master/DefensiveCodingInJava-master/.idea/DefensiveCodingInJava-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIOTest/FileIOTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Gittest1/.idea/Gittest1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GradleWorkspace/.idea/GradleWorkspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractice/.idea/InterviewPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractice/InterviewPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPrep/JavaPrep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProgram/JavaProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaTestNg/JavaTestNg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MobileTesting/MobileTesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParallelExecution/ParallelExecution.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_TestGit/Project_TestGit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredAutomation/RestAssuredAutomation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAssuredBDDApproach/RestAssuredBDDApproach.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumMaven/SeleniumMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNGMaven/TestNGMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNgPrep/TestNgPrep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com_maventest/com_maventest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../httpClient_practice/httpClient_practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jackson_libraryPractice/.idea/jackson_libraryPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jackson_libraryPractice/jackson_libraryPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../livecoding/livecoding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/testproject/TestProject/TestProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +53,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="feature/testbranch1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="234hmLeC8Qre20mF4dfDkkxjDec" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,8 +78,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jackson_libraryPractice" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -56,7 +105,7 @@
       <module name="APIFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PositiveTestCase.*" />
+          <option name="PATTERN" value="NegativeValidTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,7 +123,7 @@
       <module name="APIFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PositiveTestCase.*" />
+          <option name="PATTERN" value="NegativeValidTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,7 +141,7 @@
       <module name="APIFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PositiveTestCase.*" />
+          <option name="PATTERN" value="NegativeValidTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,7 +159,7 @@
       <module name="APIFramework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PositiveTestCase.*" />
+          <option name="PATTERN" value="NegativeValidTestCase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,7 +194,41 @@
       <option name="presentableId" value="Default" />
       <updated>1640999424441</updated>
     </task>
+    <task id="LOCAL-00001" summary="new project created">
+      <created>1643425043004</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643425043005</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new project created">
+      <created>1643425071324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643425071324</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new project created">
+      <created>1643470745841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643470745841</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new class added">
+      <created>1643471628951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643471628951</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new project created" />
+    <MESSAGE value="new class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="new class added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="627" y="221" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1641009390163">
@@ -168,6 +251,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="707" y="387" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1641001029244" />
+    <state x="0" y="47" width="1920" height="945" key="CommitChangelistDialog2" timestamp="1643472185437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="47" width="1920" height="945" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1643472185437" />
+    <state x="184" y="85" key="DiffContextDialog" timestamp="1643472152409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="85" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1643472152409" />
     <state x="690" y="221" key="FileChooserDialogImpl" timestamp="1641000331148">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -192,14 +283,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="103" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1641626702158" />
+    <state x="340" y="78" key="SettingsEditor" timestamp="1642487088016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="340" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1642487088016" />
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2" timestamp="1643471644090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="191" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643471644090" />
     <state x="716" y="287" key="chooseDestDirectoryDialog" timestamp="1641000970038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="716" y="287" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1641000970038" />
-    <state x="586" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1641609307329">
+    <state x="586" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1643424879409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="586" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1641609307329" />
+    <state x="586" y="306" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1643424879409" />
+    <state x="683" y="195" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1643472033655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="195" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1643472033655" />
+    <state x="718" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1643425206950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643425206950" />
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1641111407002">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
